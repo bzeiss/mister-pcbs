@@ -1,9 +1,9 @@
 # mister-pcbs
 
 ## Midi PCB for Mister
-Work in progress, don't use yet.
+Work in progress and untested, don't use yet.
 
-![image](https://user-images.githubusercontent.com/884834/123292051-f9159180-d512-11eb-8f12-3b0535f8e20a.png)
+![image](https://user-images.githubusercontent.com/884834/123519677-1d0cda80-d6ad-11eb-967e-d55aac58ab35.png)
 
 
 ### BOM

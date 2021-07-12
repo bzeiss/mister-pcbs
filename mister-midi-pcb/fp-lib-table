@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name w_conn)(type KiCad)(uri ${KIPRJMOD}/library/w_conn_av.pretty)(options "")(descr ""))
+  (lib (name samacsys)(type KiCad)(uri ${KIPRJMOD}/library/SamacSys_Parts.pretty)(options "")(descr ""))
 )

@@ -39,6 +39,6 @@ Gerbers: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/gerber/
 | 1             | D3                      | 0805 LED blue                       | 
 | 1             | D4                      | 0805 led white                      | 
 | 1             | U3                      | LM1117-3.3                          | 
-| 1             | J2                      | USB Type-A connector                | 
+| 1             | J2                      | USB3 Type-A connector                | 
 | 3             | J1,J3,J4                | DIN5 Midi connector                 | 
 

@@ -12,7 +12,7 @@ Feedback is always very welcome :smile:
 This is a PCB for the Mister FPGA that extends midi functionality through the USB port.
 
 ![image](https://user-images.githubusercontent.com/884834/132215326-3aca588a-d103-4381-a1b3-bc4a5d4aca4b.png)
-![20210906_140224](https://user-images.githubusercontent.com/884834/132215717-3789becc-40d2-49e9-9501-932e73bd78a4.jpg)
+![20210906_140027](https://user-images.githubusercontent.com/884834/132215819-9e92a566-bedc-47fa-956c-ae22fc4e4931.jpg)
 ![20210906_140224](https://user-images.githubusercontent.com/884834/132215739-6172dcc0-fc90-4df5-830a-d9d2765d3e1a.jpg)
 
 

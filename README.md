@@ -33,12 +33,12 @@ Schematic: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/pdf/s
 | 1             | D1                      | 0805 1N4148 diode                   |  |
 | 1             | U1                      | SMD H11L1 opto-coupler              |  |
 | 1             | U2                      | SMD 74HC14                          |  |
-| 1             | D2                      | SMD led green                       |  |
-| 1             | D3                      | SMD led blue                        |  |
-| 1             | D4                      | SMD led white                       |  |
+| 1             | D2                      | 0805 LED green                      |  |
+| 1             | D3                      | 0805 LED blue                       |  |
+| 1             | D4                      | 0805 led white                      |  |
 | 1             | U3                      | LM1117-3.3                          |  |
 | 1             | J2                      | USB Type-A connector                |  |
-| 3             | J1,J3,J4                | DIB5 Midi connector                 |  |
+| 3             | J1,J3,J4                | DIN5 Midi connector                 |  |
 
 ### Build Instructions
 

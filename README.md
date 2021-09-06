@@ -24,7 +24,8 @@ Schematic: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/pdf/s
 | 6             | FB1,FB2,FB3,FB4,FB5,FB6 | 0805 Ferrite Bead                   |  |
 | 1             | C1                      | 0805 100nF ceramic capacitor        |  |
 | 2             | C2,C3                   | 0805 10uF tantalum capacitor        |  |
-| 4             | R1,R3,R8,R9             | 0805 220 ohm resistor               |  |
+| 1             | R1                      | 0805 2k ohm resistor                |  |
+| 3             | R3,R8,R9                | 0805 220 ohm resistor               |  |
 | 1             | R2                      | 0805 470 ohm resistor               |  |
 | 1             | D1                      | 0805 1N4148 diode                   |  |
 | 1             | U1                      | SMD H11L1 opto-coupler              |  |

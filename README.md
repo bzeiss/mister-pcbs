@@ -9,9 +9,12 @@ Be smart. Don't just trust the stuff I offer for download here. Take a look at t
 Feedback is always very welcome :smile:
 
 ## Midi PCB for Mister
-Work in progress. Test PCBs have been ordered, don't use yet.
+This is a PCB for the Mister FPGA that extends midi functionality through the USB port.
 
-![image](https://user-images.githubusercontent.com/884834/123555233-c1158500-d784-11eb-91bd-76e0d4421f2e.png)
+![image](https://user-images.githubusercontent.com/884834/132215326-3aca588a-d103-4381-a1b3-bc4a5d4aca4b.png)
+![20210906_140224](https://user-images.githubusercontent.com/884834/132215717-3789becc-40d2-49e9-9501-932e73bd78a4.jpg)
+![20210906_140224](https://user-images.githubusercontent.com/884834/132215739-6172dcc0-fc90-4df5-830a-d9d2765d3e1a.jpg)
+
 
 Schematic: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/pdf/schematic.pdf
 

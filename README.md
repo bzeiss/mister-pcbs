@@ -17,6 +17,7 @@ This is a PCB for the Mister FPGA that extends midi functionality through the US
 
 
 Schematic: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/pdf/schematic.pdf
+
 Gerbers: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/gerber/mister-midi-pcb-v1.1.zip
 
 ### BOM

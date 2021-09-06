@@ -40,6 +40,3 @@ Schematic: https://github.com/bzeiss/mister-pcbs/blob/main/mister-midi-pcb/pdf/s
 | 1             | J2                      | USB Type-A connector                |  |
 | 3             | J1,J3,J4                | DIN5 Midi connector                 |  |
 
-### Build Instructions
-
-...

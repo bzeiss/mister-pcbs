@@ -6,8 +6,8 @@ I tinker with electronics, release stuff when I feel like it and I make it publi
 
 Be smart. Don't just trust the stuff I offer for download here. Take a look at the schematic and the PCB design beforehand. 
 
-Feedback is always very welcome :smile: Feel free to ask question in the [discussions](https://github.com/bzeiss/synth-pcbs/discussions).
+Feedback is always very welcome :smile: Feel free to ask question in the [discussions](https://github.com/bzeiss/mister-pcbs/discussions).
 
 ***
 
-The main content of this site (descriptions, documentations) can be found **[in the Wiki](https://github.com/bzeiss/mister-pcbs/discussions)**.
+The main content of this site (descriptions, documentations) can be found **[in the Wiki](https://github.com/bzeiss/mister-pcbs/wiki)**.

@@ -11,3 +11,5 @@ Feedback is always very welcome :smile: Feel free to ask question in the [discus
 ***
 
 The main content of this site (descriptions, documentations) can be found **[in the Wiki](https://github.com/bzeiss/mister-pcbs/wiki)**.
+
+[![Entrance](https://user-images.githubusercontent.com/884834/141660551-4a2c4852-fc1e-44f5-8d12-a7e33d5bfc61.jpg)](https://github.com/bzeiss/mister-pcbs/wiki)

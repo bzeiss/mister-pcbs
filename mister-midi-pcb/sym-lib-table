@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "atmega")(type "Legacy")(uri "${KIPRJMOD}/library/ATMEGA328P-MMHR.lib")(options "")(descr ""))
+  (lib (name "max3421")(type "Legacy")(uri "${KIPRJMOD}/library/MAX3421EETJ+.lib")(options "")(descr ""))
+  (lib (name "mixed")(type "Legacy")(uri "${KIPRJMOD}/library/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "clock")(type "Legacy")(uri "${KIPRJMOD}/library/NX3225SA-16.000000MHZ-T1.lib")(options "")(descr ""))
+  (lib (name "mister-midi-pcb-rescue")(type "Legacy")(uri "${KIPRJMOD}/mister-midi-pcb-rescue.lib")(options "")(descr ""))
+)

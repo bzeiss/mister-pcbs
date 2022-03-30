@@ -1,0 +1,16 @@
+Comment,Designator,Footprint,LCSC Part Number
+100nF,C1,Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C49678
+10uF,"C2,C3",Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder,C7171
+1N4148,D1,Diode_SMD:D_SOD-323_HandSoldering,C2128
+Green LED,D2,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C2297
+Blue LED,D3,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C2293
+Yellow LED,D4,LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,C2296
+Ferrite_Bead,"FB1,FB2,FB3,FB4,FB5,FB6",Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,C85835
+220,R1,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17557
+470,R2,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17710
+2k,"R3,R8,R9",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17604
+33,"R4,R5",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17634
+10,"R6,R7",Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,C17415
+H11L1,U1,Package_DIP:SMDIP-6_W9.53mm_Clearance8mm,C899473
+74HC14,U2,Package_SO:SO-14_3.9x8.65mm_P1.27mm,C5605
+LM1117-3.3,U3,Package_TO_SOT_SMD:SOT-223-3_TabPin2,C126027

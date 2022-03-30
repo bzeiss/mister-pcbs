@@ -2,7 +2,7 @@
 %TF.CreationDate,2022-03-30T21:28:38+02:00*%
 %TF.ProjectId,mister-midi-pcb,6d697374-6572-42d6-9d69-64692d706362,1.11*%
 %TF.SameCoordinates,Original*%
-%TF.FileFunction,Paste,Bot*%
+%TF.FileFunction,Legend,Bot*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
